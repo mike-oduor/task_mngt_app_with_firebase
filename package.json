@@ -1,0 +1,19 @@
+{
+  "name": "task-management-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TO_DO_LIST_APP.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-oduor/Task_Management_App.git"
+  },
+  "author": "Michael Oduor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-oduor/Task_Management_App/issues"
+  },
+  "homepage": "https://github.com/mike-oduor/Task_Management_App#readme"
+}
